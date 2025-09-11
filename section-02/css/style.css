@@ -12,4 +12,13 @@ h2 {
     font-size: 50px;
 }
 
-/* Comentário */
+/* Classes e Ids */
+
+.p-texto {
+    color: lightgreen
+}
+
+#titulo-app {
+    color: purple;
+    font-size: 40px;
+}
