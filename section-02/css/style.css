@@ -22,3 +22,28 @@ h2 {
     color: purple;
     font-size: 40px;
 }
+
+/* Especifidade */
+
+.p-dentro-da-div {
+    color: blue;
+}
+
+#p-superpespecifico {
+    color: green;
+}
+
+/* Cores */
+
+.nome {
+    color: orange;
+}
+
+.hexa {
+    color: #6a40c4;
+}
+
+.rgba {
+    color:rgba(17, 197, 214 , 0.3); /* 0.3 => último parametro define a transparência */
+    font-size: 40px;
+}
