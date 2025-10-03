@@ -112,6 +112,12 @@ body{
     background-color: red;
     /*top left bottom right*/
     padding: 30px 20px 5px 10px;
+    border: 5px solid #000;
+    border-width: 5px 10px 6px 15px;
+    border-left: 5px dotted blue;
+    border-right-style: double;
+    border-radius: 10px;
+
     /*all*/
     /*padding: 20px;*/
 
@@ -122,7 +128,7 @@ body{
 
     /*top left bottom*/
     /*padding: 30px 20px 5px;*/
-    
+
     /*top/bottom left/right*/
     /*padding: 30px 20px;*/
 }
