@@ -143,11 +143,11 @@ body{
 }
 
 /* Positions */
-/* static */
-/* relative */
-/* fixed */
-/* absolute */
-/* sticky */
+/* static - Flow no html, não é alterado por top, left, bottom e right */
+/* relative - Flow no html, ela é alterado por top, left, bottom e right */
+/* fixed - Posição em qualquer lugar da tela, e posicionada em relação ao HTML */
+/* absolute - Posição em qualquer lugar da tela, e ela respeita o elemento anterior */
+/* sticky - Está no flow do HTML, porém ao passar o scroll ela funciona como fixed. */
 
 .div-position{
     width: 500px;
