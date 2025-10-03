@@ -160,3 +160,10 @@ body{
     position: static;
     top: 100px;
 }
+
+.relative {
+    position: relative;
+    background-color: blue;
+    top: 100px;
+    left: 50px;
+}
