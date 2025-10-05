@@ -233,3 +233,22 @@ body{
     width: 500px;
     height: 20px;  
 }
+
+.pai-porcentagem {
+    height: 500px;
+    width: 500px;
+    background-color: #000;
+}
+
+.porcentagem1 {
+    height: 50%;
+    width: 50%;
+    background-color: yellow;
+}
+
+.porcentagem2 {
+    height: 50%;
+    width: 50%;    
+    background-color: green;
+}
+
