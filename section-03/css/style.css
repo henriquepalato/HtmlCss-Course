@@ -252,3 +252,29 @@ body{
     background-color: green;
 }
 
+
+.pai-em {
+    font-size: 50px;
+}
+
+.em-1 {
+    width: 2em;
+    height: 2em;
+    background-color: purple;
+}
+
+html {
+    font-size: 20px;
+}
+
+.rem-1 {
+    width: 1rem;
+    height: 1rem;
+    background-color: blue;
+}
+
+.rem-2 {
+    font-size: 2rem;
+}
+
+
